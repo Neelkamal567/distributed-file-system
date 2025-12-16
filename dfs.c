@@ -370,4 +370,6 @@ int main() {
 }
 // Feature 1: Node status
 //Feature 2: File replication
+//Feature 3: Node failure simulation
+
 
