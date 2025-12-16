@@ -372,5 +372,6 @@ int main() {
 //Feature 2: File replication
 //Feature 3: Node failure simulation
 //Feature 4: Fault tolerance
+//Feature 5: Node recovery
 
 
